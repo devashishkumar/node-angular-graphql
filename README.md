@@ -1,11 +1,3 @@
-echo "# node-angular-graphql" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/devashishkumar/node-angular-graphql.git
-git push -u origin main
-
 ## express dependencies
 
 ```sh
